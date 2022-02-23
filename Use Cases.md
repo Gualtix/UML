@@ -7,7 +7,7 @@
 - The system is treated as a black box – that is, dealing with what the system does in response to the actor’s inputs, not the internals of how it does it.
 - An actor provides inputs to the system and the system provides responses to the actor.
 
-## Use Case Diagram Guidelines for Better Use Cases
+## Use Case Diagram Guidelines
 
 ### Actors
 
@@ -42,12 +42,15 @@
 # Actors, Roles, and Users
 # High-level Use Cases
 | Syntax                |
-| --------------------- | 
-| Name                  |             
-| Sumary                |             
-| Actor                 |             
-| Main Sequence         |             
-| Alternative Sequences |             
+| --------------------- |
+| ID                    |
+| Name                  |
+| Sumary                |
+| Actors                |
+| Preconditions         |
+| Main Sequence         |
+| Alternative Sequences |
+| Postconditions        |
 
 # Requirements tracing
 
